@@ -122,12 +122,9 @@ button:hover{
     }
     66% {
         left: -4320px;
-    }
+    } 
     79% {
         left: -4320px;
-    }
-    82% {
-        left: -5400px;
     }
     100% {
         left: 0;
@@ -141,7 +138,7 @@ button:hover{
     width: 1080px;
     height: 720px;
     animation-name: slide;
-    animation-duration: 10s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
     transition-duration: 2s;
 }
